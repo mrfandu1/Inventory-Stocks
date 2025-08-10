@@ -41,6 +41,3 @@ This is an Inventory Management App built with React Native and Expo. It allows 
    ```sh
    expo start
    ```
-
-## License
-MIT
